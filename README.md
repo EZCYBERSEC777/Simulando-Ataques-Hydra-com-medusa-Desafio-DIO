@@ -1,5 +1,3 @@
-# Simulando-Ataques-Hydra-com-medusa-Desafio-DIO
-Vetores de ataque brute-force com medusa, metaspolitable2(alvo), sbmclient
 # Simulando-ataques-de-brute-force-com-medusa-DIO
 Atividade de conclusão de Desafio DIO, simulando ataques a uma maquina metasploitable2 com kali linux
 
